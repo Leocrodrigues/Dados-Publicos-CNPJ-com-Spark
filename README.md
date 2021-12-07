@@ -1,4 +1,4 @@
-# Dados Públicos CNPJ-com-Sapark
+# Dados Públicos CNPJ-com-Spark
 Esse estudo  consiste em ler, manipular, tratar e salvar um conjunto de dados volumosos utilizando como ferramenta o Spark.
 
 Os dados públicos do CNPJ estão disponíveis para download.
